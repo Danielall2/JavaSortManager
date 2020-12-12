@@ -1,0 +1,22 @@
+2020-12-12 16:05:08,879 INFO c.s.d.s.Starter [main] 
+2020-12-12 16:05:08,883 INFO c.s.d.s.Starter [main] Beginning of Program
+2020-12-12 16:05:14,780 INFO c.s.d.s.Factory [main] Sort Type Factory has been used
+2020-12-12 16:05:19,616 ERROR c.s.d.a.ArrayCreator [main] If a double is entered to create an Array the program will stop
+2020-12-12 16:05:19,616 INFO c.s.d.s.Factory [main] Sort Factory has been used
+2020-12-12 16:05:19,619 INFO c.s.d.s.Starter [main] If a performance test is requested another random array will be created
+2020-12-12 16:05:22,019 WARN c.s.d.s.TimeChecker [main] Random Array created as final.
+2020-12-12 16:05:22,019 WARN c.s.d.s.TimeChecker [main] Potential for issues within sort methods
+2020-12-12 16:05:26,382 ERROR c.s.d.a.ArrayCreator [main] If a double is entered to create an Array the program will stop
+2020-12-12 16:05:26,382 INFO c.s.d.s.Factory [main] Sort Type Factory has been used
+2020-12-12 16:05:26,382 INFO c.s.d.s.Factory [main] Sort Factory has been used
+2020-12-12 16:05:26,384 INFO c.s.d.s.Factory [main] Sort Type Factory has been used
+2020-12-12 16:05:26,384 INFO c.s.d.s.Factory [main] Sort Factory has been used
+2020-12-12 16:05:26,385 INFO c.s.d.s.Factory [main] Sort Type Factory has been used
+2020-12-12 16:05:26,385 INFO c.s.d.s.Factory [main] Sort Factory has been used
+2020-12-12 16:05:26,386 INFO c.s.d.s.Factory [main] Sort Type Factory has been used
+2020-12-12 16:05:26,386 INFO c.s.d.s.Factory [main] Sort Factory has been used
+2020-12-12 16:05:26,386 INFO c.s.d.s.Factory [main] Sort Type Factory has been used
+2020-12-12 16:05:26,386 INFO c.s.d.s.Factory [main] Sort Factory has been used
+2020-12-12 16:05:26,387 INFO c.s.d.s.Factory [main] Sort Type Factory has been used
+2020-12-12 16:05:26,387 INFO c.s.d.s.Factory [main] Sort Factory has been used
+2020-12-12 16:05:26,391 INFO c.s.d.s.Starter [main] End of Program
